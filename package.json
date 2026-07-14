@@ -1,0 +1,9 @@
+{
+  "name": "meta-daily-report",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily report Meta Ads (Remitgo, Telin Taiwan, Telin HK) ke Telegram, dipicu external scheduler.",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
